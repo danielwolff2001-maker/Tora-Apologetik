@@ -1,0 +1,6 @@
+{
+  "name": "Tora Apologetik",
+  "description": "Die Tora Apologetik App von Logos Apologetik. Finde theologische Antworten zu Einwänden, nutze den Trainingsbereich mit Übungen und speichere eigene Notizen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
